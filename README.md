@@ -16,10 +16,10 @@ This dashboard is based on the Dataset of some corporation which was shared duri
 
 - Step 1 : Click on the dashboardlink or download the GlobalSales_and_Profit_Dashboard.pbix file.
 - Step 2 : If you click on the link then the dashboard will be opened in the new webpage or if you will choose to download the file then you must upload it to Power BI Desktop or use https://app.powerbi.com/ .
-- Step 3 : Now you easily interact with this dashboard and look at all the insights.
+- Step 3 : Now you can easily interact with this dashboard and look at all the insights.
 - Step 4 : For filtering the data use the slicers "Order Date" and "Ship Mode".
 - Step 5 : You can see different visuals like pie chart, line chart, bar plot and etc . You can select any column , slice or point inside these visuals by just simply clicking on it, and will see all the information changing according to it.
-- step 6 : There is a map inside dashboard "Sum of sales by country", using which you can select any country and see tha analysis according to it.
+- step 6 : There is a map inside dashboard "Sum of sales by country", using which you can select any country and see the analysis according to it.
 
 ### motive :-
 
