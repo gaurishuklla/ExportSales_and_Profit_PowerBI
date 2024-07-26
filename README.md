@@ -8,9 +8,8 @@ This dashboard is based on the Dataset of some corporation which was shared duri
 
 ## Snapshot of Dashboard :-
 
-
-
 ![Screenshot 2024-07-26 131045](https://github.com/user-attachments/assets/e9091fe0-3c79-42aa-be37-618186abf693)
+
 
 
 ### Steps to be followed :-
